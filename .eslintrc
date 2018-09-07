@@ -18,8 +18,9 @@
     "import/extensions": 0,
     "import/no-extraneous-dependencies": 0,
     "linebreak-style": 0,
-    "semi": ["error", "never"],
+    "semi": "off",
     "no-unreachable": "error",
-    "no-console": "off"
+    "no-console": "off",
+    "no-debugger":  "off"
   }
 }
